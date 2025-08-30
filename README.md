@@ -7,7 +7,7 @@ The project uses:
 - **SQL** → To pull raw network usage data  
 - **Python (pandas, matplotlib, seaborn)** → To clean, analyze, and visualize data  
 - **Streamlit** → To build an **interactive dashboard** for planners 
-- **Streamlit_App**b→ https://networkutilizationdashboardforinfrastructureplanning-dsh9uppjw.streamlit.app/
+- **Streamlit_App** → https://networkutilizationdashboardforinfrastructureplanning-dsh9uppjw.streamlit.app/
 
 ---
 
